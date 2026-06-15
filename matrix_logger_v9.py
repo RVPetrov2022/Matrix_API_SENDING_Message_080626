@@ -16,7 +16,7 @@ MATRIX_URL = "http://192.168.10.15:8008"
 
 # Данные авторизации для автоматического получения токена
 MATRIX_USER = "petrov_rv1"
-MATRIX_PASS = "Kolondaik_454"
+MATRIX_PASS = ""
 
 # Настройки Анти-спама
 MAX_MSG_PER_MINUTE = 3    
